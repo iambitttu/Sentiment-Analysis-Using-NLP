@@ -29,7 +29,7 @@
     
 ## 4. Evaluation Results and Analysis:
 
-  - The model achieved satisfactory performance.
+  - The model achieved satisfactory performance
   - Precision, recall, and F1-score indicate balanced performance across classes.
   - Further analysis could be conducted on misclassified instances to identify potential areas for improvement.
 
