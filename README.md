@@ -11,7 +11,7 @@
 ## 2. Model Architecture and Parameters
 
 - The model used for sentiment analysis is Logistic Regression.
-- The model architecture consists of a TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer followed by a logistic regression classifier.
+- The model architecture consists of a TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer and a logistic regression classifier.
 - Parameters:
   - TF-IDF Vectorizer:
     - max_features: 5000
